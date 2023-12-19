@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7dd9aa72fb646909e92fa1e733e748, type: 3}
+  m_Name: GridObjectData
+  m_EditorClassIdentifier: 
+  GridObjectData:
+  - ObjectType: 1
+    ObjectEditorTexture: {fileID: 2800000, guid: 7d41616c0b1534fe286bfacd9a683428, type: 3}
+  - ObjectType: 2
+    ObjectEditorTexture: {fileID: 2800000, guid: 38356bf8957d646d8b483610b2fd65b9, type: 3}
+  - ObjectType: 3
+    ObjectEditorTexture: {fileID: 2800000, guid: a3fe0be30a7b94a8fbf28a55acdd1ded, type: 3}
+  - ObjectType: 0
+    ObjectEditorTexture: {fileID: 2800000, guid: f2691fbb231c2406daadb259f627da45, type: 3}
